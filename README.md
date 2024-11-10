@@ -5,9 +5,8 @@
 - Protfolio: 노션 링크 넣기
 - Note: 노션 링크 넣기
 
-- Languages   
-![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![image](https://github.com/user-attachments/assets/d9991193-a859-4eb5-bd60-3cac1d2af4fd)
+## 📔Languages   
+<img src = "https://github.com/user-attachments/assets/d9991193-a859-4eb5-bd60-3cac1d2af4fd" width="100" height="50">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jajaknamu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
