@@ -30,5 +30,5 @@ Note: 노션 링크 넣기
 
 </div>   
 
-## ![footer](https://capsule-render.vercel.app/api?type=venom&color=auto&height=180&section=footer&fontSize=90)
+## ![footer](https://capsule-render.vercel.app/api?type=waving&color=FA991C&height=120&section=footer)
 
