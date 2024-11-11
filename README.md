@@ -1,6 +1,9 @@
-## ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=180&section=header&text=Backend/Jieun&fontSize=90)
-<div align=center>
 
+## ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=180&section=header&text=Backend-Jieun&fontSize=90)
+
+## ![header](https://capsule-render.vercel.app/api?type=venom&color=76819C&customColorList=&height=180&section=header&text=Backend-Jieun&fontColor=363636&fontSize=90)
+<div align=center>
+  
   #### 😊 현재 공부중인 백엔드 주니어 개발자입니다.
 
 Email: heyfer6867@gmail.com   
@@ -8,7 +11,7 @@ Protfolio: 노션 링크 넣기
 Note: 노션 링크 넣기
 
 ### ⚙️Backend
- <img src="https://github.com/user-attachments/assets/b2cabda7-3213-44d0-a346-6bc2b50df55d" width="300" height="90"/>
+ <img src="https://github.com/user-attachments/assets/b2cabda7-3213-44d0-a346-6bc2b50df55d" width="350" height="100"/>
 
 
 
@@ -20,9 +23,12 @@ Note: 노션 링크 넣기
 ### 🛠️Tools
  <img src="https://github.com/user-attachments/assets/7bb4b297-4db2-48bb-a384-da769f357e4b" width="250" height="80"/>
 
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jajaknamu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 
+
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJajaknamu%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits%21&edge_flat=true"/></a>
-</div>
+
+</div>   
+
+## ![footer](https://capsule-render.vercel.app/api?type=venom&color=auto&height=180&section=footer&fontSize=90)
 
