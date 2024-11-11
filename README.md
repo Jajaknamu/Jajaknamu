@@ -1,7 +1,7 @@
 
-## ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=180&section=header&text=Backend-Jieun&fontSize=90)
-
-## ![header](https://capsule-render.vercel.app/api?type=venom&color=76819C&customColorList=&height=180&section=header&text=Backend-Jieun&fontColor=363636&fontSize=90)
+<!--## ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=180&section=header&text=Backend-Jieun&fontSize=90)
+-->
+## ![header](https://capsule-render.vercel.app/api?type=venom&color=FA991C&customColorList=&height=180&section=header&text=Backend-Jieun&fontColor=032539&fontSize=90)
 <div align=center>
   
   #### 😊 현재 공부중인 백엔드 주니어 개발자입니다.
