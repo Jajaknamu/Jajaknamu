@@ -41,7 +41,7 @@
 - Thymeleaf 기반 동적 View 구성, 정렬/조회/검색 기능 포함
 - 관리자 전용 페이지는 역할 "admin"으로 권한 설정, 교수,회원,연구실 조회,삭제,수정 등 관리 가능
 
-🔗 [GitHub Repository](https://github.com/your-project-url)  
+🔗 [GitHub Repository](https://github.com/Jajaknamu/Capstone)  
 🧩 기술스택: `Spring Boot`, `Spring Security`, `JPA`, `Thymeleaf`, `MySQL`, `HTML/CSS/JS(AJAX)`
 
 *** 
