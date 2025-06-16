@@ -9,7 +9,7 @@
 
 **📧Email**: heyfer6867@gmail.com     
 **📝Study**: [Notion 공부 기록](https://unique-income-725.notion.site/662da645a54f4b7e8dc3f2ac05fdb8ab?source=copy_link)  
-**🗂️Protfolio**: [교수님 백과사전 v1](https://unique-income-725.notion.site/v1-141042ddfb21400796d8bfb57cb196e8?source=copy_link)/[교수님 백과사전 v2](https://unique-income-725.notion.site/v2-35886184f1134aaebc02db5441b9508d?source=copy_link)/[BookShop](https://unique-income-725.notion.site/BookShop-1d2dee6a3251801caf76cca3b5dff517?source=copy_link)
+**🗂️Protfolio**: [교수님 백과사전-v1](https://unique-income-725.notion.site/v1-141042ddfb21400796d8bfb57cb196e8?source=copy_link)/[교수님 백과사전-v2](https://unique-income-725.notion.site/v2-35886184f1134aaebc02db5441b9508d?source=copy_link)/[BookShop](https://unique-income-725.notion.site/BookShop-1d2dee6a3251801caf76cca3b5dff517?source=copy_link)
 
 ### ⚙️Backend
  <img src="https://github.com/user-attachments/assets/b2cabda7-3213-44d0-a346-6bc2b50df55d" width="290" height="80"/>
